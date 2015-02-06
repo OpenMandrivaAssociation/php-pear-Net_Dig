@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1
-Release:	15
+Release:	16
 Summary:	Interface to the dig command
 License:	PHP License
 Group:		Development/PHP
